@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Progressive Overload
 header-img: img/home-bg.png
 email: guy.s.bryant@gmail.com
 copyright_name: guysbryant
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Committing one more line than list time.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  guysbryant
